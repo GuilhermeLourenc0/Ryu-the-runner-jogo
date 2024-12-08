@@ -1,4 +1,4 @@
-# 🕹️ Street Fighter Dino Game
+# 🕹️ Ryu, the runner
 
 A fun and interactive browser-based game that combines the simplicity of Google's **Dino Game** (played when you're offline) with the iconic style of **Street Fighter**. Test your reflexes as you navigate through obstacles in this exciting mash-up!
 
